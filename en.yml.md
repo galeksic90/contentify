@@ -16,7 +16,7 @@
   in: "i"
   yt: "y"
   btn:
-    offer: "offer"
+    offer: "offer2"
     details: "Details"
     youtubechan: "Youtube channel"
     instagram: "Instagram"
@@ -67,4 +67,4 @@
     latesttw: "Latest Tweet"
     latestfb: "Latest Facebook post"
   footer:
-    copyright: "© vaer, 2014 all rights reserved"
+    copyright: "Â© vaer, 2014 all rights reserved"
