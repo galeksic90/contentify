@@ -67,4 +67,4 @@
     latesttw: "Latest Tweet"
     latestfb: "Latest Facebook post"
   footer:
-    copyright: "Â© vaer, 2014 all rights reserved"
+    copyright: "© vaer, 2014 all rights reserved"
