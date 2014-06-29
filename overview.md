@@ -8,6 +8,8 @@ Available features
 
 * Manage documents in Markdown
  
+
+ 
 * Editor with preview / fullscreen / syntax coloration etc...
 
 * Realtime editing with Github collaborators
